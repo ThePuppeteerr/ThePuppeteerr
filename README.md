@@ -39,7 +39,7 @@
 ## Featured Projects
 | Project | Description |
 |---------|-------------|
-| **[EMA Crossover Bot – MQL5](#)** | Fully automated MT5 bot implementing EMA cross strategy with stop-loss & trailing stop |
+| **[EMA Crossover Bot – MQL5](https://github.com/ThePuppeteerr/mt5-email-crossover-bot)** | Fully automated MT5 bot implementing EMA cross strategy with stop-loss & trailing stop |
 | **[Python Trade Logger](#)** | Automates trade journaling with data export to Excel |
 | **[Backtesting Toolkit](#)** | Python toolkit for testing and optimizing trading strategies |
 
